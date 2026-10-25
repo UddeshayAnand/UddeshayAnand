@@ -2,14 +2,14 @@
 
 **Full-Time Learner with a background in Mechanical Engineering and Data Analytics.**
 
-I am currently exploring how machines learn from data and interact with the physical world. My projects span brain and muscle signals, image retrieval, and engineering geometry. I'm now building on that foundation by learning more about robotics.
+I am currently exploring how machines learn from data and interact with the physical world. My projects span brain and muscle signals, image retrieval and engineering geometry. I'm now building on that foundation by learning more about robotics.
 
 ## Work I've done
 
-I've explored learning from sensor data, visual representations, and geometry through research and engineering projects:
+I've explored learning from sensor data, visual representations and geometry through research and engineering projects:
 
 - **[Multiband Attention Network][eeg-conference]** — classifying EEG signals associated with imagined movements. Conference work accepted.
-- **[MBAN-AFBF][eeg-journal]** — combining information across signal channels, time, and frequency bands for EEG classification. Journal manuscript under consideration.
+- **[MBAN-AFBF][eeg-journal]** — combining information across signal channels, time and frequency bands for EEG classification. Journal manuscript under consideration.
 - **[Image retrieval][retrieval]** — finding visually similar images using pretrained visual features and clustering.
 - **[EMG-based sensor prediction][emg]** — prediction of flex-sensor readings using muscle signals and flex inputs from a prosthetic ankle.
 
@@ -20,7 +20,7 @@ I've explored learning from sensor data, visual representations, and geometry th
 ![Embodied AI](https://img.shields.io/badge/Embodied%20AI-0f766e?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-b45309?style=flat-square)
 
-I'm learning how robots connect sensing, decision-making, and movement. My focus is on understanding:
+I'm learning how robots connect sensing, decision-making and movement. My focus is on understanding:
 
 - **Motion planning and control** — how robots find paths and use feedback to follow them.
 - **Robot perception and intelligence** — how robots interpret sensor data and decide what to do.
@@ -38,11 +38,11 @@ I'm especially interested in how these ideas can contribute to assistive robots 
 ![NumPy](https://img.shields.io/badge/NumPy-4d77a8?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-b91c3c?style=flat-square&logo=streamlit&logoColor=white)
 
-I use **Python and C++**, with **NumPy, pandas, SciPy, and Matplotlib** for data analysis; **scikit-learn, TensorFlow/Keras and PyTorch** for machine learning and numerical computing; and **Streamlit** for interactive applications.
+I use **Python and C++**, with **NumPy, pandas, SciPy and Matplotlib** for data analysis; **scikit-learn, TensorFlow/Keras and PyTorch** for machine learning and numerical computing; and **Streamlit** for interactive applications.
 
 ## Learn more and get in touch
 
-For more about my background and projects, take a look at my CV or connect with me below. I'm happy to exchange ideas and discuss collaborations in AI, sensor data, and robotics.
+For more about my background and projects, take a look at my CV or connect with me below. I'm happy to exchange ideas and discuss collaborations in AI, sensor data and robotics.
 
 **[CV][cv] · [LinkedIn][linkedin] · [Email][email]**
 
