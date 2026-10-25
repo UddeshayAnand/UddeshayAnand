@@ -12,7 +12,6 @@ I've explored learning from sensor data, visual representations, and geometry th
 - **[MBAN-AFBF][eeg-journal]** — combining information across signal channels, time, and frequency bands for EEG classification. Journal manuscript under consideration.
 - **[Image retrieval][retrieval]** — finding visually similar images using pretrained visual features and clustering.
 - **[EMG-based sensor prediction][emg]** — prediction of flex-sensor readings using muscle signals and flex inputs from a prosthetic ankle.
-- **[CAD-to-robot geometry][cad]** — a geometric prototype for converting synthetic CAD contours into tool poses and waypoint previews.
 
 ## What I'm learning
 
@@ -55,4 +54,3 @@ For more about my background and projects, take a look at my CV or connect with 
 [eeg-journal]: https://github.com/UddeshayAnand/mban-afbf-mi-eeg
 [retrieval]: https://github.com/UddeshayAnand/image-retrieval-system
 [emg]: https://github.com/UddeshayAnand/emg-prosthetic-ankle-prediction
-[cad]: https://github.com/UddeshayAnand/cad-to-robot-offline-programming
