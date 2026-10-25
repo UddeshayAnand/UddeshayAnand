@@ -46,6 +46,8 @@ I use **Python and C++**, with **NumPy, pandas, SciPy, and Matplotlib** for data
 For more about my background and projects, take a look at my CV or connect with me below. I'm happy to exchange ideas and discuss collaborations in AI, sensor data, and robotics.
 
 **[CV][cv] · [LinkedIn][linkedin] · [Email][email]**
+
+<!-- Links -->
 [cv]: REPLACE_CV_URL
 [linkedin]: https://www.linkedin.com/in/uddeshay
 [email]: uddeshay.oj@gmail.com
