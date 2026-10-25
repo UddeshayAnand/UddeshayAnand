@@ -47,7 +47,7 @@ For more about my background and projects, take a look at my CV or connect with 
 
 **[CV][cv] · [LinkedIn][linkedin] · [Email][email]**
 [cv]: REPLACE_CV_URL
-[linkedin]: https://www.linkedin.com/in/uddeshay/
+[linkedin]: https://www.linkedin.com/in/uddeshay
 [email]: uddeshay.oj@gmail.com
 [eeg-conference]: https://github.com/UddeshayAnand/multiband-attention-network-mi-eeg
 [eeg-journal]: https://github.com/UddeshayAnand/mban-afbf-mi-eeg
