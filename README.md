@@ -38,7 +38,7 @@ I'm especially interested in how these ideas can contribute to assistive robots 
 ![NumPy](https://img.shields.io/badge/NumPy-4d77a8?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-b91c3c?style=flat-square&logo=streamlit&logoColor=white)
 
-I use **Python and C++**, with **NumPy, pandas, SciPy, and Matplotlib** for data analysis; **scikit-learn, TensorFlow/Keras, PyTorch, and JAX** for machine learning and numerical computing; and **Streamlit** for interactive applications.
+I use **Python and C++**, with **NumPy, pandas, SciPy, and Matplotlib** for data analysis; **scikit-learn, TensorFlow/Keras and PyTorch** for machine learning and numerical computing; and **Streamlit** for interactive applications.
 
 ## Learn more and get in touch
 
