@@ -45,16 +45,12 @@ I use **Python and C++**, with **NumPy, pandas, SciPy, and Matplotlib** for data
 
 For more about my background and projects, take a look at my CV or connect with me below. I'm happy to exchange ideas and discuss collaborations in AI, sensor data, and robotics.
 
-**[CV][cv] · [LinkedIn][linkedin] · [Google Scholar][scholar] · [Email][email]**
-
-<!-- Replace all REPLACE_* values before publishing. Remove links you do not have. -->
-<!-- Keep project descriptions and publication statuses up to date. -->
+**[CV][cv] · [LinkedIn][linkedin] · [Email][email]**
 [cv]: REPLACE_CV_URL
-[linkedin]: REPLACE_LINKEDIN_URL
-[scholar]: REPLACE_GOOGLE_SCHOLAR_URL
-[email]: mailto:REPLACE_EMAIL_ADDRESS
-[eeg-conference]: https://github.com/REPLACE_GITHUB_USERNAME/multiband-attention-network-mi-eeg
-[eeg-journal]: https://github.com/REPLACE_GITHUB_USERNAME/mban-afbf-mi-eeg
-[retrieval]: https://github.com/REPLACE_GITHUB_USERNAME/image-retrieval-system
-[emg]: https://github.com/REPLACE_GITHUB_USERNAME/emg-prosthetic-ankle-prediction
-[cad]: https://github.com/REPLACE_GITHUB_USERNAME/cad-to-robot-offline-programming
+[linkedin]: https://www.linkedin.com/in/uddeshay/
+[email]: uddeshay.oj@gmail.com
+[eeg-conference]: https://github.com/UddeshayAnand/multiband-attention-network-mi-eeg
+[eeg-journal]: https://github.com/UddeshayAnand/mban-afbf-mi-eeg
+[retrieval]: https://github.com/UddeshayAnand/image-retrieval-system
+[emg]: https://github.com/UddeshayAnand/emg-prosthetic-ankle-prediction
+[cad]: https://github.com/UddeshayAnand/cad-to-robot-offline-programming
